@@ -21,7 +21,7 @@ HAKKINDA SAYFASI
 
 
 ŞEHRİM SAYFASI
-- Şehri ait bilgileri bilgileri vereceğim kısa bir metin,
+- Şehre ait bilgileri vereceğim kısa bir metin,
 - Şehri tanıtacak mekanlara ait fotoğrafın olduğu bir slider
 - Slider daki resimlere tıklandığında resimlere ait içerik sayfaları açılmalı
 
@@ -32,13 +32,13 @@ MİRASIMIZ SAYFASI
 
 LOGİN SAYFASI
 - Kullanıcıdan kullanıcı adı ve şifre istenilecek
-- Eğer kullanıcı adı ve şifre doğrulanırsa 'Hoşgeldiniz' mesajı verilecek
+- Eğer kullanıcı adı ve şifre doğrulanırsa 'Hoşg eldiniz' mesajı verilecek
 - Eğer kullanıcı ad veya şifre yanlış ise login sayfasına geri dönülecek
-- Kullanıcı adının mail olup olmadığı konrol edilecek
+- Kullanıcı adının mail olup olmadığı kontrol edilecek
 - Kullanıcı adı ve şifrenin boş olup olmadığı kontrol edilecek
 
 
 İLETİŞİM SAYFASI
-- Form elemanları kullanılanılacak
+- Form elemanları kullanılacak
 - Kontrol işlemleri javascript ile yapılacak
 - Gönderilen form bilgileri başka bir sayfada görüntülenecek
