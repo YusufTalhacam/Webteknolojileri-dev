@@ -1,7 +1,7 @@
-# Webteknolojileri-odev
-Projenin Amacı:
+#### Webteknolojileri-odev
+##Projenin Amacı:
 Kendimi ve yaşadığım şehri tanıtan kişisel bir web sitesi geliştirmek.
-İçerik:
+##İçerik:
 Ana Sayfada
 - Diğer sayfalara geçiş yapabileceğim giriş sayfası
 Hakkında Sayfası
