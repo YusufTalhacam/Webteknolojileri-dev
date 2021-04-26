@@ -1,43 +1,44 @@
-Webteknolojileri-proje
+WEB TEKNOLOJİLERİ PROJE ÖDEVİ BİLGİ DÖKÜMANI
 
-Projenin Amacı:
-Kendimi ve yaşadığım şehri tanıtan kişisel bir web sitesi geliştirmek.
+PROJENİN AMACI:
 
-
-İçerik:
+  -Kendimi ve yaşadığım şehri tanıtan kişisel bir web sitesi geliştirmek.
 
 
-Ana Sayfada
+İÇERİK:
+
+
+ANA SAYFADA
 - Diğer sayfalara geçiş yapabileceğim giriş sayfası
 
 
-Hakkında Sayfası
+HAKKINDA SAYFASI
 - Kendimi(sayfa sahibini) tanıtan bilgiler.
 
 
-Özgeçmiş Sayfası
+ÖZGEÇMİŞ SAYFASI
 - Eğitim bilgilerini içeren CV niteliğinde samantic tagların kullanıldığı özgeçmiş sayfası
 
 
-Şehrim Sayfası
+ŞEHRİM SAYFASI
 - Şehri ait bilgileri bilgileri vereceğim kısa bir metin,
 - Şehri tanıtacak mekanlara ait fotoğrafın olduğu bir slider
 - Slider daki resimlere tıklandığında resimlere ait içerik sayfaları açılmalı
 
 
-Mirasımız Sayfası
+MİRASIMIZ SAYFASI
 - Şehirdeki kültürel bir mekanın tanıtımı 
 
 
-Login Sayfası
-- Kullanıcıdan kullanıcı adı ve şifre istenmeli
-- Eğer kullanıcı adı ve şifre doğrulanırsa 'Hoşgeldiniz' mesajı verilmeli,
-- Eğer kullanıcı ad veya şifre yanlış ise login sayfasına geri dönülmeli,
-- Kullanıcı adının mail olup olmadığı,
-- Kullanıcı adı ve şifrenin boş olup olmadığı kontrol edilmeli,
+LOGİN SAYFASI
+- Kullanıcıdan kullanıcı adı ve şifre istenilecek
+- Eğer kullanıcı adı ve şifre doğrulanırsa 'Hoşgeldiniz' mesajı verilecek
+- Eğer kullanıcı ad veya şifre yanlış ise login sayfasına geri dönülecek
+- Kullanıcı adının mail olup olmadığı konrol edilecek
+- Kullanıcı adı ve şifrenin boş olup olmadığı kontrol edilecek
 
 
-İletişim Sayfası
-- Form elemanları kullanılmalı
-- Kontrol işlemleri javascript ile yapılmalı
-- Gönderilen form bilgileri başka bir sayfada görüntülenmeli
+İLETİŞİM SAYFASI
+- Form elemanları kullanılanılacak
+- Kontrol işlemleri javascript ile yapılacak
+- Gönderilen form bilgileri başka bir sayfada görüntülenecek
